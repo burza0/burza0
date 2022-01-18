@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/burza0/Moje-portfolio](https://github.com/burza0/Moje-portfolio)
 
-- 💬 Ask me about **Cypress**
+- 💬 Ask me about **... and ... and anything you want**
 
 - 📫 How to reach me **mariuszburzynski77@gmail.com**
 
