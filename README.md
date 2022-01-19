@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariusz burzyński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz burzyński" height="30" width="40" /></a>
+<a href="https://pl.linkedin.com/in/mariusz-burzy%C5%84ski?trk=profile-badge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz burzyński" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17956874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17956874" height="30" width="40" /></a>
 </p>
 
