@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio in React and two test projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Javascript**
 
 - 🤝 I’m looking for help with **AWS**
 
