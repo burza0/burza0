@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- 🤝 I’m looking for help with **AWS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/burza0/Moje-portfolio](https://github.com/burza0/Moje-portfolio)
 
 - 💬 Ask me about **... and ... and anything you want**
